@@ -1,0 +1,1 @@
+https://mirrors.pku.edu.cn/dl-release/DREDS_ECCV2022/data/cad_model/
