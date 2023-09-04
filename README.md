@@ -12,8 +12,10 @@ Here we collected the existing datsets containing transparent/translucent object
 | [ClearPose (ECCV 2022)](https://github.com/opipari/ClearPose) | Synthetic (available, alligned with real images) | RGBD, normal | 350k images, 63 objects | Sparse viewpoints with relative poses of objects |
 | [Omniverse Object Dataset (CVPR 2021)](https://github.com/NVlabs/implicit_depth) | Synthetic | RGBD, transparent mask | 60k images | Sparse mono viewpoints with camera extrinsics|
 | [SuperCaustics (2021)](https://github.com/MMehdiMousavi/SuperCaustics) | Synthetic (Mesh provided in UE4 project) | RGB, Depth (Not available), normal (Not available) | 9k images, 650 scenarios | Sparse viewpoints, mono, no extrinsics or poses given, might be in the project |
-| [Trans10K (ECCV 2020)](https://github.com/xieenze/Segment_Transparent_Objects) | Not Available | RGB, Segmentation | 10k images | only for 2D segmentation |
-| [DREDS dataset (ECCV 2022)](https://github.com/PKU-EPIC/DREDS#dataset) | Synthetic | RGBD | 130k images, 1801 scenes. |  |
+| [Trans10K (ECCV 2020)](https://github.com/xieenze/Segment_Transparent_Objects) | Not Available | RGB, Segmentation | 10k images |  | only for 2D segmentation |
+| [DRT (TOG 2020)](https://github.com/lvjiahui/DRT) | Scanned (Grey code) | 3D mesh to be rendered | 8 models, images can be rendered |  | #TODO 3D to 3D metrics |
+| [DREDS dataset (ECCV 2022)](https://github.com/PKU-EPIC/DREDS#dataset) | Synthetic | RGBD | 130k images, 1801 scenes. |  | #TODO |
+| [GraspNeRF (2023ICRA)](https://github.com/PKU-EPIC/GraspNeRF) | Synthetic | RGB | 2.4 million images of 100K scenes | | #TODO generation pipeline with Blender assets, based on DREDS |
 | [TransPIR (2022)](https://github.com/shaomq2187/transpir) | Synthetic | RGB, normal | 1k images, 4 models |  |
 
 
