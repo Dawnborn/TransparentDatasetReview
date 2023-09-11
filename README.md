@@ -7,6 +7,7 @@ Here we collected the existing datsets containing transparent/translucent object
 | [TransCG (2022RAL)](https://github.com/Galaxies99/TransCG) | Scanned | RGBD | 57k images of 130 scenes | stereo pairs, relative poses of objects |
 | [ClearGrasp (2019)](https://sites.google.com/view/cleargrasp/home) | Synthetic (not public) | RGBD. normal, segmentation | 50k images synthetic + 286 images real-world | mono images, relative poses of objects |
 | [Dex-NeRF Datasets (CoRL 2021)](https://sites.google.com/view/dex-nerf) | Not Available | RGB | 400~ images (2 synthetic scenes and 2 real-world scenes) | Relative poses of objects |
+| [TransparentShapeRealData (CVPR 2020)](https://github.com/yuyingyeh/TransparentShapeRealData) | Scanned to Synthetic (optix renderer) | RGB, normal | 4 scenes with creation pipeline |  |
 | [KeyPose Dataset (CVPR 2020)](https://sites.google.com/view/keypose/?pli=1) | Scanned | RGBD | 48k images, 15 scenes | Stereo sequences, relative pose of objects|
 | [TransProteus (2021)](https://www.cs.toronto.edu/matterlab/TransProteus/) | Synthetic (Partly from ShapeNet with given BRDFs) | RGBD | 50k images, 13000 objects | Fixed Angles, incomplete scene file|
 | [ClearPose (ECCV 2022)](https://github.com/opipari/ClearPose) | Synthetic (available, alligned with real images) | RGBD, normal | 350k images, 63 objects | Sparse viewpoints with relative poses of objects |
@@ -17,7 +18,3 @@ Here we collected the existing datsets containing transparent/translucent object
 | [DREDS dataset (ECCV 2022)](https://github.com/PKU-EPIC/DREDS#dataset) | Synthetic | RGBD | 130k images, 1801 scenes. |  | #TODO |
 | [GraspNeRF (2023ICRA)](https://github.com/PKU-EPIC/GraspNeRF) | Synthetic | RGB | 2.4 million images of 100K scenes | | #TODO generation pipeline with Blender assets, based on DREDS |
 | [TransPIR (2022)](https://github.com/shaomq2187/transpir) | Synthetic | RGB, normal | 1k images, 4 models |  |
-
-
-
-
